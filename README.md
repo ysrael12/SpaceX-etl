@@ -326,14 +326,6 @@ Para utilizar este projeto em futuros desenvolvimentos:
 
 Este projeto é de código aberto e disponível para uso educacional e comercial.
 
-## Autor
-
-Desenvolvido como portfolio de engenharia de dados demonstrando boas práticas de desenvolvimento Python, ETL e arquitetura de software.
-
-## Contato
-
-Para dúvidas ou sugestões sobre o projeto, consulte a documentação do código ou analise os exemplos em `main.py`.
-
 ---
 
 Última atualização: Março 2026
